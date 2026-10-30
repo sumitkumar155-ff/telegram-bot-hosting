@@ -38,7 +38,7 @@ def keep_alive():
     print("Flask Keep-Alive started.")
 
 # --- Configuration ---
-TOKEN = '8961608717:AAHj7rE01kW_6nhSSnrUm66aa8peuXU_dXE'
+TOKEN = '8978082004:AAE_-IBtVH4M4tAc6AyuiOAbAvOODI7uqVk'
 OWNER_ID = 8766427862
 ADMIN_ID = 8766427862
 YOUR_USERNAME = '@zoolyy'
